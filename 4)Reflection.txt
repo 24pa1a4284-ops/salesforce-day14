@@ -1,0 +1,4 @@
+4)Reflection 
+A)Why do enterprises require controlled workflows instead of unrestricted actions?
+
+Enterprises require controlled workflows to ensure business processes are secure, accurate, and properly approved. Controlled workflows reduce mistakes, improve accountability, and protect important business data from misuse.

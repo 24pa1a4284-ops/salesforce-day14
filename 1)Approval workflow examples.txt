@@ -1,0 +1,17 @@
+ 1)Approval workflow examples
+ A)
+    1. Course Creation Approval
+    Faculty creates course request.
+    HOD reviews the request.
+    Principal gives final approval.
+    After approval, course becomes active.
+    If rejected, request returns for correction.
+
+ 2 example
+ 
+ 2. Faculty Leave Request
+Faculty submits leave request.
+HOD checks leave details.
+Principal approves the request.
+Leave status becomes approved.
+If rejected, faculty receives notification.

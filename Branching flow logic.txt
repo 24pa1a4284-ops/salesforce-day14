@@ -1,0 +1,10 @@
+ 
+2)Branching flow logic 
+A)Attendance Monitoring Flow
+  Decision Points
+  If Attendance < 75%
+   Send warning email to student.
+   If Attendance < 60%
+   Send notification to parents.
+   If Attendance < 50%
+   Escalate issue to administration.

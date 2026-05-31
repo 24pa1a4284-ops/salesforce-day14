@@ -1,0 +1,17 @@
+3)Governance Explanation
+
+Enterprise systems cannot allow everyone to directly change important records because:
+
+It may create security issues.
+Wrong users may modify sensitive data.
+Unauthorized approvals can happen.
+Business operations may be affected.
+Data integrity and trust can be lost.
+
+Governance helps maintain:
+
+Security
+Proper approvals
+Controlled workflows
+Audit tracking
+Business safety
